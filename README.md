@@ -2,7 +2,6 @@
 
 This is a sample file
 
-
 ## Introduction
 
 This is example is to show different parts.
@@ -13,5 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+new deployment section
 
 ## How to Contribute
