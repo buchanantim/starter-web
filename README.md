@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a sample file. Adding a line for rebasing example, then
+This is a sample project, and also a sample file. Adding a line for rebasing example, then
 more changes from myfeature branch too.
 Updating for emergency fix.
 
