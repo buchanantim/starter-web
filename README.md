@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a sample file
+This is a sample file. Adding a line for rebasing example.
 
 ## Introduction
 
